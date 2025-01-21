@@ -54,4 +54,6 @@ Contact @Moderator on discord with any questions or to report something that is 
 
 ## License and Attribution
 
-This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Geek Feminism community.  
+This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Geek Feminism community.
+
+Front Range Independent LARP Network Code of Conduct © 2025 by Hrefna is licensed under CC BY-SA 4.0. See LICENSE for more details (and really you should probably be using the [original](https://geekfeminism.fandom.com/wiki/Community_anti-harassment/Policy), which is CC0, if you want to mix your own).
